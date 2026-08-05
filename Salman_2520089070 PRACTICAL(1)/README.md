@@ -1,3 +1,3 @@
 Name-Salman Ahmed
 
-About-DBMS PRACTICALS
+About-DBMS PRACTICE
